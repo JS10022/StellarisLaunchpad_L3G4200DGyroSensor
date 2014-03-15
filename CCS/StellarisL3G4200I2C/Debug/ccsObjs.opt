@@ -1,0 +1,1 @@
+"./utils/uartstdio.obj" "./startup_ccs.obj" "./main.obj" "./common.obj" "./UART.obj" "./L3G4200D.obj" "./I2C.obj" -l"D:\StellarisWare\driverlib\ccs-cm4f\Debug\driverlib-cm4f.lib" -l"libc.a" "../lm4f120h5qr.cmd" 

@@ -1,0 +1,1 @@
+"../I2C.c" "../L3G4200D.c" "../UART.c" "../common.c" "../main.c" "../startup_ccs.c" 
